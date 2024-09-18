@@ -4,7 +4,7 @@
 
 # To Do List
 
-![ToDoList](https://socialify.git.ci/RuthTSobande/ToDoList/image?description=1&forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
+![ToDoList](https://RuthTSobande.netlify.app/)
 
 #### This web page is hosted (https://RuthTSobande.netlify.app/)
 
