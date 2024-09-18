@@ -50,11 +50,11 @@ Check [Issues](https://github.com/RuthTSobande/ToDoList/issues) for contributing
 
 ![Project Image1](https://github.com/RuthTSobande/To-Do---List/blob/main/RuthTSobande%20To-do%20List%201.png)
 
-![Project Image2](https://drive.google.com/file/d/1-yWqvTqPpr1W5zLqgfcS3-q0IHxDBVMz/view?usp=sharing)
+![Project Image2](https://github.com/RuthTSobande/To-Do---List/blob/main/RuthTSobande%20To-do%20List%202.png)
 
-![Project Image3](https://drive.google.com/file/d/1WeBTxkZtpgi1W76Ljr5EPXPj-gdKjE3O/view?usp=sharing)
+![Project Image3](https://github.com/RuthTSobande/To-Do---List/blob/main/RuthTSobande%20To-do%20List%203.png)
 
-![Project Image4](https://drive.google.com/file/d/12NAEYUIN8W0sTu7TODtVqW-zd7pAhwYj/view?usp=sharing)
+![Project Image4](https://github.com/RuthTSobande/To-Do---List/blob/main/RuthTSobande%20To-do%20List%204.png)
 
 # *Author*
 
