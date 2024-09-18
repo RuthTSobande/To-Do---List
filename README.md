@@ -48,7 +48,7 @@ Check [Issues](https://github.com/RuthTSobande/ToDoList/issues) for contributing
 
 ## *WEBSITE DEMO*
 
-![Project Image1](https://drive.google.com/file/d/1MdNlZWC5UgjkbFCI5ZEqu1j0jvlziGos/view?usp=sharing)
+![Project Image1](https://github.com/RuthTSobande/To-Do---List/blob/main/RuthTSobande%20To-do%20List%201.png)
 
 ![Project Image2](https://drive.google.com/file/d/1-yWqvTqPpr1W5zLqgfcS3-q0IHxDBVMz/view?usp=sharing)
 
